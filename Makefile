@@ -1,4 +1,4 @@
-SRC = head.ms index.ms 2_las_principales_verdades.ms foot.ms
+SRC = head.ms index.ms 1_fundamentos_de_la_fe_ortodoxa.ms 2_las_principales_verdades.ms foot.ms
 
 coleccion_textos_ortodoxos.pdf: $(SRC)
 	groff -Kutf8 -ms $(SRC) -T pdf > $@
