@@ -1,51 +1,59 @@
 .XS 1
 Fundamentos de la Fe
 .XA 1
-¿Qué es la Ortodoxia?
+El Símbolo de la Fe
 .XA 1
-¿Qué es la Iglesia Ortodoxa?
-.XA 1
-¿Dónde se halla contenida la doctrina Ortodoxa?
+Informe histórico
 .XA 2
-Diferencias doctrinales entre la iglesia Ortodoxa y Romana
-.XA 3
-¿Por qué soy Ortodoxo?
+¿En qué creemos conforme con el Símbolo?
 .XA 4
-¿Qué enseña la Ortodoxia?
+Las principales verdades
 .XA 4
-Religión
+¿Qué es la Ortodoxia?
+.XA 4
+¿Qué es la Iglesia Ortodoxa?
+.XA 4
+¿Dónde se halla contenida la doctrina Ortodoxa?
 .XA 5
-La Revelación Divina
+Diferencias doctrinales entre la iglesia Ortodoxa y Romana
 .XA 6
-Sda. Tradición y Sda. Escritura
+¿Por qué soy Ortodoxo?
+.XA 7
+¿Qué enseña la Ortodoxia?
+.XA 7
+Religión
+.XA 7
+La Revelación Divina
 .XA 8
-Dios Unidad y Trinidad
-.XA 9
-El Problema del Dolor y de la Muerte
-.XA 9
-El Espíritu Santo
-.XA 10
-Jesucristo
-.XA 10
-La Madre de Dios
+Sda. Tradición y Sda. Escritura
 .XA 11
+Dios Unidad y Trinidad
+.XA 12
+El Problema del Dolor y de la Muerte
+.XA 12
+El Espíritu Santo
+.XA 12
+Jesucristo
+.XA 13
+La Madre de Dios
+.XA 14
 Seguidores de Cristo
-.XA 12
+.XA 14
 El Pecado
-.XA 12
+.XA 15
 Otras doctrinas de N. S. Jesucristo
-.XA 13
+.XA 15
 La comunión de los santos
-.XA 13
+.XA 15
 Un compendio de nuestra fe Ortodoxa
-.XA 13
+.XA 16
 Los mandamientos de la ley de Dios
-.XA 16
+.XA 18
 Las Bienaventuranzas
-.XA 16
+.XA 19
 La gracia de Dios
-.XA 17
+.XA 20
 El sacrificio de la misa
-.XA 17
+.XA 20
 Epílogo de la primera parte
 .XE
